@@ -1,6 +1,14 @@
-[![Join the chat at https://gitter.im/langue-project/Lobby](https://badges.gitter.im/langue-project/Lobby.svg)](https://gitter.im/langue-project/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+A modern platform for conlanging.
 
 # Langue /ˈlæŋ/
+
+<div align="center">
+  <a href="https://gitter.im/langue-project/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+    <img src="https://badges.gitter.im/langue-project/Lobby.svg"
+         alt="Join the chat at https://gitter.im/langue-project/Lobby">
+  </a>
+</div>
+
 ## The Langue Project [WIP]
 
 Langue provides an infrastructure for creating and learning languages. The main aim is to be the most common platform for online and offline conlanging. It works on any of JavaScript engines so that the utilities and interfaces are isomorphic and universal across different platforms.
